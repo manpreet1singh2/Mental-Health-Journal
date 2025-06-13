@@ -2,7 +2,7 @@
 
 A beautiful, AI-powered journaling application that helps users understand their emotional state and improve mental wellbeing through regular reflection.
 
-![Mental Health Journal Screenshot](/placeholder.svg?height=400&width=800)
+![Mental Health Journal Screenshot]([/placeholder.svg?height=400&width=800](https://v0-new-project-pa77fmpbxit.vercel.app/))
 
 ## Features
 
